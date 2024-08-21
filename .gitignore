@@ -1,0 +1,14 @@
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuraciones de IDE
+.vscode/
+.idea/
+
+# Archivos de dependencias
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
