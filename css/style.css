@@ -5,8 +5,8 @@
     /* --form-bg: #e9fa7c; */
     --form-bg: #fff9f0;
     --shadow-color: #faa307;
-    --btn-bg: #e85d04;
-    --btn-fg: #faf7f0;
+    --btn-bg: #fd9b5e;
+    --btn-fg: #000000;
 }
 
 * {
@@ -126,7 +126,7 @@
     text-transform: uppercase;
     font-weight: 600;
     color: var(--btn-fg);
-    box-shadow: 3px 3px #dc2f02;
+    box-shadow: 3px 3px #ed793b;
 }
 
 .input-area {
